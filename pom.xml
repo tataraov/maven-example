@@ -69,7 +69,6 @@
             </plugin>
         </plugins>
     </build>
-<<<<<<< HEAD
 <distributionManagement>
                 <repository>
                 <id>bintray-jfrog1992-my_maven_repo</id>
@@ -77,6 +76,4 @@
                 <url>https://api.bintray.com/maven/jfrog1992/my_maven_repo/[PACKAGE_NAME]/;publish=1</url>
                 </repository>
 </distributionManagement>
-=======
->>>>>>> 9fd6ce5c1746fdc4806a0dce1a7e1924b5b02257
 </project>
