@@ -5,6 +5,8 @@
         <groupId>org.jfrog.test</groupId>
         <artifactId>multi</artifactId>
         <version>4.1-SNAPSHOT</version>
+        <classifier>dev</classifier>
+        <type>jar</type>
     </parent>
 
     <artifactId>multi1</artifactId>
