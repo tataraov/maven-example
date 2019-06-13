@@ -4,8 +4,9 @@
     <parent>
         <groupId>org.jfrog.test</groupId>
         <artifactId>multi</artifactId>
-        <version>4.2-SNAPSHOT</version>
-        
+        <version>4.3-SNAPSHOT</version>
+        <type>jar</type>
+        <classifier>dev</classifier>
     </parent>
 
     <artifactId>multi1</artifactId>
